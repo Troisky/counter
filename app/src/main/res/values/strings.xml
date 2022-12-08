@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="counter">Counter</string>
+    <string name="Button">+</string>
+    <string name="Button2">-</string>
+    <string name="textview">TextView</string>
+</resources>
